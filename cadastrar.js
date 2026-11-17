@@ -18,7 +18,7 @@ async function cadastrarMusica() {
         inputAno.value === "" ||
         inputDuracao.value === ""
     ) {
-        alert("Preencha todos os campos!")
+        alert("Preencha todos os Campos!")
         return
     }
 
